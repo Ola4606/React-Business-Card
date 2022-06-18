@@ -51,7 +51,7 @@ h1, h2, h3, h4, p {
 }
 
 .title--website {
-  font-size: 10.24px;
+  font-size: 13px;
   line-height: 1.5em;
   color: #F5F5F5;
   margin: 0px;
@@ -60,7 +60,7 @@ h1, h2, h3, h4, p {
 }
 
 .title--website:hover {
-  font-size: 10.24px;
+  font-size: 13px;
   line-height: 150%;
   color: lightblue;
   margin: 0px;
@@ -136,7 +136,7 @@ h1, h2, h3, h4, p {
 }
 
 .profileDetails--div > p {
-  font-size: 10.24px;
+  font-size: 13px;
   color: #DCDCDC;
   line-height: 150%;
 }
@@ -153,7 +153,7 @@ h1, h2, h3, h4, p {
 }
 
 .footerIcon{
-  font-size: 25px;
+  font-size: 30px;
   color: #918E9B;
 }
 
